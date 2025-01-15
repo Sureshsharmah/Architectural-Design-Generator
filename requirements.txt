@@ -1,0 +1,6 @@
+matplotlib
+seaborn
+numpy
+openai
+PIL
+streamlit
